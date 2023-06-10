@@ -3,11 +3,11 @@
 }
 
 .container{
-     @apply w-[90%] h-[120px] bg-[#ffee9d] ml-5 rounded-3xl text-3xl font-bold
+     @apply w-[90%] h-[110px] bg-[#ffee9d] ml-5 rounded-3xl text-3xl font-bold
  }
 
 .mem{
-    @apply text-[#8d8452] text-2xl ml-9
+    @apply text-[#8d8452] text-2xl
 }
 .hz{
     @apply text-xl text-[#9d945c]
