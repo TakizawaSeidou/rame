@@ -7,7 +7,7 @@
  }
 
 .mem{
-    @apply text-[#8d8452] text-2xl ml-6
+    @apply text-[#8d8452] text-2xl ml-9
 }
 .hz{
     @apply text-xl text-[#9d945c]
