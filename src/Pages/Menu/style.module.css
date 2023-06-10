@@ -3,5 +3,5 @@
 }
 
 .container{
-     @apply w-[90%] h-[200px] bg-[#ffee9d] ml-6
+     @apply w-[90%] h-[200px] bg-[#ffee9d] ml-4
  }
