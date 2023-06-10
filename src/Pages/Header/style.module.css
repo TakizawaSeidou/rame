@@ -2,5 +2,5 @@
     @apply w-full h-auto bg-red-600 text-white text-3xl flex justify-between
 }
 .men{
-    @apply w-[40px] h-[40px] mt-0.5
+    @apply w-[40px] h-[40px]
 }

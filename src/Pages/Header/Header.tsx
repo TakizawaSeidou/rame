@@ -3,7 +3,7 @@ import style from './style.module.css'
 import tri from '../../resourse/tri.png'
 
 
-function Menu(){
+function Header(){
     return(
         <div className={style.container}>
             TaskPro
@@ -12,4 +12,4 @@ function Menu(){
 
     )
 }
-export default Menu;
+export default Header;
