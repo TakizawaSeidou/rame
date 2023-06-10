@@ -6,7 +6,9 @@ function Menu(){
     return(
         <div className={style.rav}>
         <div className={style.container}>
-adad
+            Subscribe
+            <br/>
+            To Premium
         </div>
 </div>
     )
