@@ -5,7 +5,7 @@ function Menu(){
     return(
         <div className={style.container}>
             TaskPro
-            <img src={'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKNs2vn_UjsrFRuW8oni58ACsx97chKNfJqBs0pqnBzvwyNLz-'} className={style.men}/>
+            <img src={'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_591aDUhOqM-mUfxquHVnamWcq5yQN-8tYq0xN_g19afHLi1a'} className={style.men}/>
         </div>
 
     )
