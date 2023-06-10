@@ -7,14 +7,13 @@ function Menu(){
     return(
         <div className={style.rav}>
         <div className={style.container}>
-            <div>Subscribe</div>
-
-            <img src={diamond} className={style.hz}/>
+            Subscribe
             <br/>
             To Premium
             <br className={style.mem}/>
+            <div className={style.hz}>
             Buy premium membership
-
+            </div>
 
         </div>
 
