@@ -1,6 +1,6 @@
 .container{
-    @apply w-full h-auto bg-red-600 text-white text-2xl
+    @apply w-full h-auto bg-black text-white text-2xl
 }
 .men{
-    @apply w-[75px] h-[75px]
+    @apply w-[50px] h-[50px]
 }
