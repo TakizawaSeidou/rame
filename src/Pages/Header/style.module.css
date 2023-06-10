@@ -1,6 +1,6 @@
 .container{
     @apply w-full h-auto bg-black
 }
-.menu{
+.men{
     @apply w-[50px] h-[50px]
 }
