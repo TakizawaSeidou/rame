@@ -1,7 +1,7 @@
-.container{
-    @apply w-[90%] h-auto bg-amber-200
-}
-
 .rav{
     @apply w-full h-[500px] bg-black
 }
+
+.container{
+     @apply w-[90%] h-[200px] bg-[#ffee9d]
+ }
