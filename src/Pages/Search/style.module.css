@@ -1,0 +1,7 @@
+.container{
+    @apply w-full h-auto bg-black
+}
+.int{
+    @apply w-[80%] h-[50px] bg-black text-white text-2xl
+}
+
