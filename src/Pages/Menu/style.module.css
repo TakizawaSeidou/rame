@@ -3,7 +3,7 @@
 }
 
 .container{
-     @apply w-[90%] h-[108px] bg-[#ffee9d] ml-5 rounded-3xl text-3xl font-bold
+     @apply w-[90%] h-[108px] bg-[#ffee9d] ml-5 rounded-3xl text-2xl font-bold
  }
 
 .mem{
