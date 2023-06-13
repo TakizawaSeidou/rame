@@ -2,8 +2,8 @@
     @apply w-full h-auto bg-black text-white flex flex-row justify-between
 }
 .pen{
-    @apply text-white text-4xl
+    @apply text-white text-3xl
 }
 .sl{
-    @apply text-green-400 text-xl
+    @apply text-green-400 text-xl mt-2
 }
