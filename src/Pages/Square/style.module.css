@@ -7,5 +7,5 @@
 }
 
 .second{
-    @apply w-[90px] h-[150px] bg-red-600 rounded-2xl ml-9
+    @apply w-[90px] h-[150px] bg-red-600 rounded-2xl ml-7
 }
