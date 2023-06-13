@@ -1,5 +1,5 @@
 .container{
-    @apply w-full h-auto bg-black text-white flex flex-row justify-between
+    @apply w-full h-[100px] bg-black text-white flex flex-row justify-between
 }
 .pen{
     @apply text-white text-3xl

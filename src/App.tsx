@@ -5,6 +5,9 @@ import Header from './Pages/Header/Header'
 import Menu from './Pages/Menu/Menu'
 import Search from "./Pages/Search/Search";
 import Text from "./Pages/Text/Text"
+import Square from "./Pages/Square/Square"
+
+
 
 function App() {
   return (
@@ -13,6 +16,8 @@ function App() {
       <Menu/>
       <Search/>
       <Text/>
+      <Square/>
+
     </div>
   );
 }
