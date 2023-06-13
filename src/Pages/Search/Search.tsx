@@ -9,7 +9,7 @@ function Search(){
         <div className={style.container}>
             <img src={lupa} className={style.ser}/>
             <input placeholder={'Search  Anything'} className={style.int}/>
-            <img src={menu} className={style.ser}/>
+
 
         </div>
     )
