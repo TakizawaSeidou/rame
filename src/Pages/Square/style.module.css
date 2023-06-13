@@ -1,7 +1,11 @@
 .container{
-    @apply w-full h-auto bg-black
+    @apply w-full h-auto bg-black flex flex-row
 }
 
 .first{
     @apply w-[200px] h-[150px] bg-blue-300 rounded-2xl
+}
+
+.second{
+    @apply w-[70px] h-[150px] bg-red-600 rounded-2xl ml-6
 }

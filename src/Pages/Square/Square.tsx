@@ -10,6 +10,7 @@ function Square(){
 
 
         </div>
+            <div className={style.second}></div>
         </div>
 
     )
