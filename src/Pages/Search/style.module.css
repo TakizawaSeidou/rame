@@ -1,5 +1,5 @@
 .container{
-    @apply w-full h-100px bg-black flex flex-row
+    @apply w-full h-[100px] bg-black flex flex-row
 }
 .int{
     @apply w-[80%] h-[50px] bg-black text-white text-2xl ml-10 border-0
