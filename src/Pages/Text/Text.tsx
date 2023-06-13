@@ -6,9 +6,10 @@ import style from './style.module.css'
 function Text(){
     return(
         <div className={style.container}>
-            Pending Task
-            <br/>
-            See all
+            <div className={style.pen}>Pending Tas</div>
+            <div className={style.sl}>See all</div>
+
+
         </div>
 
     )
