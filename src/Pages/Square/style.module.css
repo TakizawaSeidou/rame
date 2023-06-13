@@ -3,11 +3,11 @@
 }
 
 .first{
-    @apply w-[70%] h-[150px] bg-[#46546f] rounded-2xl ml-6;
+    @apply w-[60%] h-[150px] bg-[#46546f] rounded-2xl ml-6;
 }
 
 .second{
-    @apply w-[25%] h-[150px] bg-[#654645] rounded-2xl ml-7;
+    @apply w-[30%] h-[150px] bg-[#654645] rounded-2xl ml-7;
 }
 
 .com{
