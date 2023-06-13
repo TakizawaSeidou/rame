@@ -8,8 +8,6 @@ function Text(){
         <div className={style.container}>
             <div className={style.pen}>Pending Tas</div>
             <div className={style.sl}>See all</div>
-
-
         </div>
 
     )

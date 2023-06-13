@@ -1,0 +1,7 @@
+.container{
+    @apply w-full h-auto bg-black
+}
+
+.first{
+    @apply w-[300px] h-[250px] bg-blue-300
+}
