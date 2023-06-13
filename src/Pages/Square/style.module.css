@@ -15,5 +15,5 @@
 }
 
 .phone{
-    @apply w-[50px] h-[50px]
+    @apply w-[50px] h-[50px] mt-5 ml-3
 }
