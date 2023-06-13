@@ -3,9 +3,9 @@
 }
 
 .first{
-    @apply w-[200px] h-[150px] bg-blue-300 rounded-2xl ml-6
+    @apply w-[180px] h-[150px] bg-blue-300 rounded-2xl ml-6
 }
 
 .second{
-    @apply w-[90px] h-[150px] bg-red-600 rounded-2xl ml-7
+    @apply w-[100px] h-[150px] bg-red-600 rounded-2xl ml-7
 }
