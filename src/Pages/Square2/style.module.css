@@ -1,0 +1,11 @@
+.container{
+    @apply w-full h-auto bg-black flex flex-row;
+}
+
+.first{
+    @apply w-[120px] h-[150px] bg-[#466566] rounded-2xl ml-7;
+}
+
+.second{
+    @apply w-[160px] h-[150px] bg-[#4b2934] rounded-2xl ml-6;
+}
