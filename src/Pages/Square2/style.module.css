@@ -1,5 +1,5 @@
 .container{
-    @apply w-full h-auto bg-black flex flex-row;
+    @apply w-full h-[170px] bg-black flex flex-row;
 }
 
 .first{
