@@ -3,5 +3,5 @@
 }
 
 .first{
-    @apply w-[300px] h-[250px] bg-blue-300
+    @apply w-[200px] h-[150px] bg-blue-300
 }
