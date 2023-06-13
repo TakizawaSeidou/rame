@@ -3,7 +3,7 @@
 }
 
 .first{
-    @apply w-[180px] h-[150px] bg-[#46546f] rounded-2xl ml-6;
+    @apply w-[180px] h-[150px] bg-[#46546f] rounded-2xl ml-6 flex flex-row;
 }
 
 .second{
@@ -12,4 +12,8 @@
 
 .com{
     @apply text-[14px] w-[100px] h-[20px] bg-white rounded-l-2xl  ml-20 mt-7
+}
+
+.phone{
+    @apply w-[50px] h-[50px]
 }
