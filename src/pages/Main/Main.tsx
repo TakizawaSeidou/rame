@@ -8,7 +8,7 @@ import Square2 from "../../Screens/First/Square2/Square2";
 import AppDesign from "../../Screens/Second/AppDesign/AppDesign";
 import Team from "../../Screens/Second/Team/Team";
 import TeamMember from "../../Screens/Second/TeamMember/TeamMember"
-
+import TwoObj from "../../Screens/Second/TwoObj/TwoObj"
 
 function Main(){
     return(
@@ -22,6 +22,7 @@ function Main(){
             <AppDesign/>
             <Team/>
             <TeamMember/>
+            <TwoObj/>
         </div>
     )
 }

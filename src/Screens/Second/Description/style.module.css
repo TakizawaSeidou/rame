@@ -4,3 +4,6 @@
 .description{
     @apply text-white text-3xl font-[Poppins]
 }
+.ser{
+    @apply text-4xl text-white ml-3
+}
