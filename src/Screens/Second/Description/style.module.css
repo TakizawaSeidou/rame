@@ -1,0 +1,6 @@
+.descriptionInfo{
+    @apply flex flex-col mt-[20px]
+}
+.description{
+    @apply text-white text-3xl font-[Poppins]
+}

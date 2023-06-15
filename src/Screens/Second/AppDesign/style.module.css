@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    @apply bg-black
+}
+.all{
+    @apply flex flex-col
+}
+.AppDesign{
+    @apply font-[Poppins] text-white text-5xl
+}
+.info{
+    @apply font-[Poppins] text-gray-500 text-2xl
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import style from './style.module.css'
-import diamond from '../../resourse/diamond.jpeg'
+import diamond from '../../../resourse/diamond.jpeg'
 
 
 function Menu(){
@@ -16,7 +16,6 @@ function Menu(){
             </div>
 
         </div>
-
 </div>
     )
 }

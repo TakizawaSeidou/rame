@@ -1,7 +1,7 @@
 import React from "react";
 import style from './style.module.css'
-import lupa from '../../resourse/lupa.png'
-import menu from '../../resourse/menu.png'
+import lupa from '../../../resourse/lupa.png'
+import menu from '../../../resourse/menu.png'
 
 
 function Search(){

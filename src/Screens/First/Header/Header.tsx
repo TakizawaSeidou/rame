@@ -1,6 +1,6 @@
 import React from "react";
 import style from './style.module.css'
-import tri from '../../resourse/tri.png'
+import tri from '../../../resourse/tri.png'
 
 
 function Header(){

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.container{
+    @apply flex flex-row mt-[20px]
+}
+.william{
+    @apply flex flex-row
+}
+.photo{
+    @apply w-[80px] h-[80px] rounded-full
+}
+.info1{
+    @apply text-gray-500 text-[25px] font-[Poppins]
+}
+.info2{
+    @apply text-white text-3xl font-[Poppins]
+}
+.info{
+    @apply flex flex-col ml-[20px]
+}
+.date{
+    @apply flex flex-row ml-[20px]
+}
+.datePhoto{
+    @apply w-[90px] h-[90px]
+}

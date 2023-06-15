@@ -1,6 +1,6 @@
 import React from "react";
 import style from './style.module.css'
-import phone from '../../resourse/phone.jpeg'
+import phone from '../../../resourse/phone.jpeg'
 
 
 function Square(){

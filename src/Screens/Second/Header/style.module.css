@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.header{
+    @apply flex justify-between
+}
+.back{
+    @apply w-[40px] h-[40px];
+}
+.det{
+    @apply font-bold font-[Poppins] text-xl text-white
+}
+.settings{
+    @apply w-[100px] h-[100px]
+}
