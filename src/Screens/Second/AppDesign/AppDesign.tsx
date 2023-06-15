@@ -6,6 +6,9 @@ import back from '../../../resourse/back.png';
 import Header from "../Header/Header";
 import NameAndDate from "../NameAndDate/NameAndDate";
 import Description from "../Description/Description";
+import TeamMember from "../TeamMember/TeamMember";
+import Team from "../Team/Team";
+import TwoObj from "../TwoObj/TwoObj";
 
 
 function AppDesign(){
@@ -18,6 +21,9 @@ function AppDesign(){
            </div>
             <NameAndDate/>
             <Description/>
+            <Team/>
+            <TeamMember/>
+            <TwoObj/>
         </div>
     )
 }

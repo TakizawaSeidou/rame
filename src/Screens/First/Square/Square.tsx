@@ -2,6 +2,7 @@ import React from "react";
 import style from './style.module.css'
 import phone from '../../../resourse/phone.jpeg'
 import lap from '../../../resourse/lap.jpeg'
+import {Link} from "react-router-dom";
 
 function Square(){
     return(
@@ -16,7 +17,9 @@ function Square(){
                 <img src={lap} className={style.lap}/>
                 WEB
                 <br/>
-                Web design
+                <Link to={'app-design'}>
+                    Web design
+                </Link>
 
             </div>
         </div>
