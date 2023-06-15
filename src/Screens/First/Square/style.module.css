@@ -1,13 +1,13 @@
 .container{
-    @apply w-full h-[240px] bg-black flex flex-row;
+    @apply w-full h-[180px] bg-black flex flex-row;
 }
 
 .first{
-    @apply w-[300px] h-[220px] bg-[#46546f] rounded-2xl ml-6 flex flex-row;
+    @apply w-[180px] h-[150px] bg-[#46546f] rounded-2xl ml-6 flex flex-row;
 }
 
 .second{
-    @apply w-[200px] h-[220px] bg-[#654645] rounded-2xl ml-7;
+    @apply w-[100px] h-[150px] bg-[#654645] rounded-2xl ml-7;
 }
 
 .com{
