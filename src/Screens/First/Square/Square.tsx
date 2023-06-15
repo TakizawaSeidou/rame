@@ -11,7 +11,6 @@ function Square(){
             <div className={style.com}>47% complete</div>
             <div className={style.app}>APP DESIGN</div>
 
-
             <br/>
             <div className={style.app}>App Design Task</div>
             App Design Task
